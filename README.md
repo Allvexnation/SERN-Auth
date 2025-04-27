@@ -100,7 +100,7 @@ Feel free to reach out if you have any questions or need help! Let's get buildin
 
 ## **Home** 
 
-![snapshots](./snapshots/home.png)
+![snapshots](./snapshots/Home.png)
 
 ## **Verify User** 
 
